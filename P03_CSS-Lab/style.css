@@ -1,0 +1,23 @@
+p {
+    color: green;
+}
+
+.info {
+    color: blue;
+}
+
+#status {
+    color: red;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.kotak-uji {
+    width: 300px;
+    padding: 30px;
+    border: 10px solid #17365d;
+    background: #d9eaf7;
+    margin-top: 1rem;
+}
